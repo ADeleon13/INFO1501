@@ -3,7 +3,26 @@ import rug
 import carpet
 import random
 def main():
- 
+   # rec = rectangle.Rectangle(0,0)
+   # length = float(input('Enter length:'))
+   # width = float(input('Enter width:'))
+   # rec.set_length(length)
+   # rec.set_width(width)
+   #
+   # print (rec.__str__())
+   #
+   #
+   # length = float(input('Enter length:'))
+   # width = float(input('Enter width:'))
+   # price = float(input('Enter price:'))
+   # myRug = rug.Rug(length, width, price)
+   # print(myRug.__str__())
+   #
+   # length = float(input('Enter length:'))
+   # width = float(input('Enter width:'))
+   # PPS= float(input('Enter price:'))
+   # myCarpet = carpet.Carpet(length, width, PPS)
+   # print(myCarpet.__str__())
 
    rectangleList = []
    #for loop that creates 3 carpets and add them to a list
